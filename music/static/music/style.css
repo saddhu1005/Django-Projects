@@ -1,0 +1,14 @@
+body{
+    background:hotpink  url("images/paper-background.jpg");
+    background-repeat: no-repeat scroll;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:100% auto;
+    #background-size: cover;
+}
+.navbar{
+    border-radius: 0;
+}
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}

@@ -1,0 +1,7 @@
+body{
+    background: pink  url("images/goku-dragon-ball-super.jpg");
+    background-repeat: no-repeat scroll;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
